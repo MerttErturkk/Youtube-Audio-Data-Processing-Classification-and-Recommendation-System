@@ -1,6 +1,6 @@
 # Youtube Audio Data Processing Classification and Recommendation System
   
-INTRODUCTION
+### INTRODUCTION
     It is interesting to think that we the humans, have this pair of weirdly shaped organs called ‘ears’, which were initially evolved to detect the pressure and the mechanical waves caused by the vibrations in our environment, like the thin sound of vocal cords of a venomous snake or the noise of a huge tree collapsing. But as the human consciousness developed and we got comfortable with our environment, the concept of music came about, just like languages. Different cultures around the world developed their own sounds, their own instruments. Their sounds evolved alongside their cultures, and those cultures interacted with other cultures.
     
 We are now living in the 21th century, where we can appreciate all kinds of sound created by any culture as a digital media, hundreds of years’ worth human created music inside our palms. This much data needs categorization, we as humans are accustomed to labeling music genres and can distinguish the cultural differences of the sounds. The artistic nature of music means that the classification is going to be subjective and our genre picks are going to overlap. To categorize the already digitalized audio data we can use our computers, but the problem with our computers is that they have not evolved ears and consciousness, for it to understand music, we need to provide it some mathematical methods. 
