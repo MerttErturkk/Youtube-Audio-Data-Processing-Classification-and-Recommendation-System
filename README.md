@@ -14,9 +14,9 @@ To classify audio signals, we are going to use Machine Learning methods. One int
 
 
 We have built a Framework using Python. It uses YouTube as the data source as any kind of audio related media can be found there. The flowchart above demonstrates the core functionalities of the framework. We have built 3 separate programmes that takes a video URL as an input. 
-•	First programme uses webscraping methods and filters the data then returns music related keywords
-•	Second programme applies a trained Machine Learning model to the extracted features and returns its predictions.
-•	Third programme returns 5 of the audio files that resembles the input file the most. 
+1)	Programme that uses webscraping methods and filters the data then returns music related keywords
+2)	Programme that applies a trained Machine Learning model to the extracted features and returns its predictions.
+3)	Programme that returns 5 of the audio files that resembles the input file the most. 
 
 Alongside our Framework we have built two machine learning models ready for prediction, first one was trained with GTZAN dataset for western music classification.[3] The second model was trained with the Turkish Song Genres dataset we created using our automation method.
 
