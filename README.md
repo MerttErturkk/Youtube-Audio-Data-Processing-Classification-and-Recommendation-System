@@ -10,7 +10,7 @@ As mentioned, sound is a vibration, and vibrations can be expressed as mathemati
 In this project, we are going to deal with time and frequency domain features of audio signals using the equations and algorithms created by these mathematicians, then we are going to reduce those features into a couple of statistically valid numbers. The extracted features can also be used to classify other signal related tasks, for example in medical diagnosis of cardiac arrhythmia.
 
 To classify audio signals, we are going to use Machine Learning methods. One interesting application related to our Project was done by Spotify. Spotify provides song features like mood, context, or the popularity of a song with their API.[2] These features are used by many other students or programmers like us. Instead of using data that was already prepared for us, we wanted to create our own dataset and apply machine learning to it ourselves. 
- ![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/MerttErturkk/Youtube-Audio-Data-Processing-Classification-and-Recommendation-System/blob/main/FLOWCHART.jpg)?raw=true)
+![alt text](https://github.com/MerttErturkk/Youtube-Audio-Data-Processing-Classification-and-Recommendation-System/blob/main/FLOWCHART.jpg?raw=true)
 
 
 We have built a Framework using Python. It uses YouTube as the data source as any kind of audio related media can be found there. The flowchart above demonstrates the core functionalities of the framework. We have built 3 separate programmes that takes a video URL as an input. 
