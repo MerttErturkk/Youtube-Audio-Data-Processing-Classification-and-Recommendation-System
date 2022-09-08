@@ -17,3 +17,27 @@ Alongside our Framework we have built two machine learning models ready for pred
 We wanted to build an alternative recommendation system for Youtube as we believe it can be improved with an automatic classification. Turkish Music video tags uploaded by common people do not usually contain music genre related tags, and many songs cannot be found unless specifically searched by its name or had already been consumed by a group of people to create a recommendation algorithm. 
 In the greater scheme, a similar system to ours can be used for the discovery of those songs using automatically generated music genre tags. For this reason, we gave our project the title ‘Turkish Song Genre Classification’.
 
+
+
+
+
+## EXTRA MODULES
+
+beautifulsoup4            4.10.0
+bs4                       0.0.1
+ipython                   8.0.1
+librosa                   0.8.1
+matplotlib                3.5.1
+nest-asyncio              1.5.4
+numpy                     1.21.5
+pandas                    1.4.0
+plotly                    5.10.0
+pydub                     0.25.1
+requests                  2.27.1
+requests-html             0.10.0
+scikit-learn              1.0.2
+scipy                     1.7.3
+seaborn                   0.11.2
+xgboost                   1.6.1
+yt-dlp                    2022.3.8.2
+
